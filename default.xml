@@ -5,11 +5,11 @@
   <default revision="master" remote="github" />
 
   <project path="libQuickAction" name="libQuickAction" />
-  <project path="libSwitchBackport" name="libAnimatedSwitch" />
+  <project path="libAnimatedSwitch" name="libAnimatedSwitch" />
   <project path="libFadingActionBar" name="libFadingActionBar" />
   <project path="libPagerSlidingTabStrip" name="libPagerSlidingTabStrip" />
 
-  <project path="dlive" name="d-live" revision="lively" />
+  <project path="d-live" name="d-live" revision="lively" />
   <project path="dlive/jni/jingle" name="jni.jingle" />
   <project path="dlive/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
   <project path="dlive/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
