@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github" fetch="ssh://git@github.com/RichardLuo/" />
+  <default revision="master" remote="github" />
+
+  <project path="libQuickAction" name="libQuickAction" />
+  <project path="libSwitchBackport" name="libAnimatedSwitch" />
+  <project path="libFadingActionBar" name="libFadingActionBar" />
+  <project path="libPagerSlidingTabStrip" name="libPagerSlidingTabStrip" />
+
+  <project path="dlive" name="d-live" revision="lively" />
+  <project path="dlive/jni/jingle" name="jni.jingle" />
+  <project path="dlive/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
+  <project path="dlive/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
+  <project path="dlive/jni/jingle/third_party/jsoncpp" name="jni.libjingle.third_party.jsoncpp" />
+  <project path="dlive/jni/jingle/third_party/openssl" name="jni.libjingle.third_party.openssl" />
+
+</manifest>
