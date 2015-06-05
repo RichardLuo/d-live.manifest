@@ -10,10 +10,10 @@
   <project path="libPagerSlidingTabStrip" name="libPagerSlidingTabStrip" />
 
   <project path="d-live" name="d-live" revision="lively" />
-  <project path="dlive/jni/jingle" name="jni.jingle" />
-  <project path="dlive/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
-  <project path="dlive/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
-  <project path="dlive/jni/jingle/third_party/jsoncpp" name="jni.libjingle.third_party.jsoncpp" />
-  <project path="dlive/jni/jingle/third_party/openssl" name="jni.libjingle.third_party.openssl" />
+  <project path="d-live/jni/jingle" name="jni.jingle" />
+  <project path="d-live/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
+  <project path="d-live/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
+  <project path="d-live/jni/jingle/third_party/jsoncpp" name="jni.libjingle.third_party.jsoncpp" />
+  <project path="d-live/jni/jingle/third_party/openssl" name="jni.libjingle.third_party.openssl" />
 
 </manifest>
