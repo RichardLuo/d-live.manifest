@@ -2,6 +2,7 @@
 <manifest>
 
   <remote name="github" fetch="ssh://git@github.com/RichardLuo/" />
+  <remote name="github_rxwen" fetch="ssh://git@github.com/rxwen/" />
   <default revision="master" remote="github" />
 
   <project path="libQuickAction" name="libQuickAction" />
@@ -15,5 +16,7 @@
   <project path="d-live/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
   <project path="d-live/jni/jingle/third_party/jsoncpp" name="jni.libjingle.third_party.jsoncpp" />
   <project path="d-live/jni/jingle/third_party/openssl" name="jni.libjingle.third_party.openssl" />
+  <project path="d-live/jni/gloox" name="gloox" remote="github_rxwen" />
+  <project path="d-live/jni/gloox-jni" name="gloox-jni" />
 
 </manifest>
