@@ -10,7 +10,7 @@
   <project path="libFadingActionBar" name="libFadingActionBar" />
   <project path="libPagerSlidingTabStrip" name="libPagerSlidingTabStrip" />
 
-  <project path="d-live" name="d-live" revision="lively" />
+  <project path="d-live" name="d-live" />
   <project path="d-live/jni/jingle" name="jni.jingle" />
   <project path="d-live/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
   <project path="d-live/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
