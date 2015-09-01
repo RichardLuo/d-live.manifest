@@ -13,6 +13,7 @@
 
   <project path="d-live" name="d-live" />
   <project path="d-live/jni/jingle" name="jni.jingle" />
+  <project path="d-live/jni/cppformat" name="cppformat" revision="dlive" />
   <project path="d-live/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
   <project path="d-live/jni/jingle/third_party/expat" name="jni.libjingle.third_party.expat" />
   <project path="d-live/jni/jingle/third_party/jsoncpp" name="jni.libjingle.third_party.jsoncpp" />
