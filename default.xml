@@ -19,4 +19,8 @@
   <project path="d-live/jni/jingle/third_party/jsoncpp" name="jni.libjingle.third_party.jsoncpp" />
   <project path="d-live/jni/jingle/third_party/openssl" name="jni.libjingle.third_party.openssl" />
 
+  <project path="d-live/jni/gloox-jni" name="gloox-jni" />
+  <project path="d-live/jni/gloox" name="gloox" remote="github_rxwen" />
+
+
 </manifest>
