@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="github" fetch="ssh://git@github.com/RichardLuo/" />
-  <remote name="github_rxwen" fetch="ssh://git@github.com/rxwen/" />
+  <remote name="github" fetch="git@github.com/RichardLuo/" />
+  <remote name="github_rxwen" fetch="git@github.com/rxwen/" />
   <default revision="master" remote="github" />
 
   <project path="libQuickAction" name="libQuickAction" />
