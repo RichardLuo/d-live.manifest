@@ -12,6 +12,7 @@
   <project path="adapter-kit" name="adapter-kit" remote="github_rxwen" />
   <project path="libViewPagerIndicator" name="libViewPagerIndicator" remote="github_rxwen" />
   <project path="OneSDK" name="aliyun_onesdk" remote="github_rxwen" />
+  <project path="WeiboSDK" name="WeiboSDK" remote="github_rxwen" />
 
   <project path="d-live" name="d-live" />
   <project path="d-live/jni/jingle" name="jni.jingle" />
