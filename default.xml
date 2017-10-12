@@ -3,6 +3,7 @@
 
   <remote name="github" fetch="https://github.com/RichardLuo/" />
   <remote name="github_rxwen" fetch="https://github.com/rxwen/" />
+  <remote name="gitlab" fetch="https://github.com/xiaoyan/" />
   <default revision="master" remote="github" />
 
   <project path="libQuickAction" name="libQuickAction" />
@@ -14,7 +15,7 @@
   <project path="OneSDK" name="aliyun_onesdk" remote="github_rxwen" />
   <project path="WeiboSDK" name="WeiboSDK" remote="github_rxwen" />
 
-  <project path="d-live" name="d-live" />
+  <project path="d-live" name="d-live" remote="gitlab" />
   <project path="d-live/jni/jingle" name="jni.jingle" />
   <project path="d-live/jni/cppformat" name="cppformat" revision="dlive" />
   <project path="d-live/jni/jingle/talk" name="droid.external.libjingle.talk" revision="dlive" />
