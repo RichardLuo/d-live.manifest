@@ -7,6 +7,7 @@
 
   <project path="libQuickAction" name="libQuickAction" />
   <project path="libAnimatedSwitch" name="libAnimatedSwitch" />
+  <project path="libFadingActionBar" name="libFadingActionBar" />
   <project path="libPagerSlidingTabStrip" name="libPagerSlidingTabStrip" />
   <project path="adapter-kit" name="adapter-kit" remote="github_rxwen" />
   <project path="libViewPagerIndicator" name="libViewPagerIndicator" remote="github_rxwen" />
