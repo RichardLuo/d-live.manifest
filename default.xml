@@ -3,7 +3,7 @@
 
   <remote name="github" fetch="https://github.com/RichardLuo/" />
   <remote name="github_rxwen" fetch="https://github.com/rxwen/" />
-  <remote name="gitlab" fetch="https://github.com/xiaoyan/" />
+  <remote name="gitlab" fetch="https://gitlab.com/xiaoyan/" />
   <default revision="master" remote="github" />
 
   <project path="libQuickAction" name="libQuickAction" />
